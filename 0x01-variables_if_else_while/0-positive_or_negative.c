@@ -2,9 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * 
- * main-entry point 
- *
+ * main - Entry point 
  * Description: "else if statment to postive or negative number"
  * Return: always 0
  */ 
